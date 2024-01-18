@@ -1,3 +1,4 @@
+
 2. Currently no git commands are executed in the created file.
 3. Untracked section
 4. From working directory to staging area we will use a command called git add <file name>. Then that file removed from untracked files list
