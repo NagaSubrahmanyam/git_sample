@@ -1,6 +1,3 @@
-1. A file which we just created, but their status is not comes under tracking 
-2. Currently no git commands are executed in the created file.
-3. Untracked section
 4. From working directory to staging area we will use a command called git add <file name>. Then that file removed from untracked files list
 
 1. Without this area we can't able to send only required no of files to local repository.
